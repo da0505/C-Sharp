@@ -9,7 +9,7 @@
 
 
 2.修复更多已知问题
-<a href="../download/Service Centre/Service Centre v5.0.exe">点击下载</a>
+<a href="https://github.com/da0505/download/Service Centre/Service Centre v5.0.exe">点击下载</a>
 
 
 软件许可使用协议
