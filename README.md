@@ -1,17 +1,18 @@
 # C-Sharp
-#Service Centre
-一款强大的教育工具
-便捷，实用
+#Service Centre 一款强大的个人免费教育工具！
+
+
 本次更新（v5.0）
+---
 
 
 1.增加“换桌倒计时”
 
 
 2.修复更多已知问题
-
-
 <a href="Service Centre/Service Centre v5.0.exe">点击下载</a>
+
+
 软件许可使用协议
 
 
@@ -59,8 +60,8 @@
 
 
 
-
 本次更新（v4.6）
+---
 
 
 1.更改了counter计算器的UI
@@ -131,3 +132,9 @@
 
 
 任何商业目的使用需要征求作者的同意。
+
+<style>
+hr:nth-of-type(1) {
+  border-width: 3px 0 0 0 !important;
+}
+</style>
