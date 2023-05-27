@@ -1,7 +1,7 @@
 # C-Sharp
 #Service Centre 一款强大的个人免费教育工具！
 
-
+<link href="logo.png" rel="shortcut icon">
 本次更新（v5.0）
 ---
 
